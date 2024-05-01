@@ -70,7 +70,7 @@
     "ts-jsdoc": "3.2.2",
     "typescript": "5.4.2",
     "typescript-json-schema": "0.63.0",
-    "v8-compile-cache": "2.3.0"
+    "v8-compile-cache": "2.4.0"
   },
   "engines": {
     "node": ">=14.14",
